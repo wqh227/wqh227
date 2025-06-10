@@ -1,8 +1,3 @@
-<style>
-  .md-typeset img[alt="Makise Kurisu"] {
-    max-height: 212px !important;
-  }
-</style>
 <div id="banner" align="center">
     <a href="https://github.com/wqh227" target="_blank">
         <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&animation=fadeIn&text=wqh227&desc=Coding%20with%20love%20and%20magic~&fontColor=0B1013&fontSize=60&fontAlignY=30&descSize=14&descAlign=64&descAlignY=52&height=136" alt="banner" />
